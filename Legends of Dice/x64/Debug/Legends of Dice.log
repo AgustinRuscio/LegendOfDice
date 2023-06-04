@@ -1,0 +1,13 @@
+﻿  Archer.cpp
+  Character.cpp
+C:\Users\Usuario\Documents\Image caMpus\Ruscio - Primer parcial\Legends of Dice\Legends of Dice\Character.cpp(22,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Usuario\Documents\Image caMpus\Ruscio - Primer parcial\Legends of Dice\Legends of Dice\Character.cpp(24,13): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  Source.cpp
+C:\Users\Usuario\Documents\Image caMpus\Ruscio - Primer parcial\Legends of Dice\Legends of Dice\Source.cpp(83,7): warning C4101: 'mainRace': unreferenced local variable
+C:\Users\Usuario\Documents\Image caMpus\Ruscio - Primer parcial\Legends of Dice\Legends of Dice\Source.cpp(341,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Warrior.cpp
+  Wizard.cpp
+  Generating Code...
+C:\Users\Usuario\Documents\Image caMpus\Ruscio - Primer parcial\Legends of Dice\Legends of Dice\Source.cpp(62): warning C4715: 'CharacterVector::SetRace': not all control paths return a value
+C:\Users\Usuario\Documents\Image caMpus\Ruscio - Primer parcial\Legends of Dice\Legends of Dice\Source.cpp(43): warning C4715: 'CharacterVector::SetClass': not all control paths return a value
+  Legends of Dice.vcxproj -> C:\Users\Usuario\Documents\Image caMpus\Ruscio - Primer parcial\Legends of Dice\x64\Debug\Legends of Dice.exe
