@@ -69,12 +69,6 @@ struct CharacterVector
 	~CharacterVector()
 	{
 		PRINT("~CharacterVector()");
-
-		if(oponet != nullptr)
-		{
-			oponet = nullptr;
-			delete oponet; 
-		}
 	}
 };
 
@@ -326,7 +320,6 @@ int main()
 	}
 	
 	delete mainCharacter;
-	delete last;
 	delete enemyVector;
 
 	unsigned int end;
